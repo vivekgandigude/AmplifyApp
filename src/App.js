@@ -1,14 +1,10 @@
-
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        </header>
-        <span>
-          React App
-        </span>
+      <header className="App-header">React App</header>
+      <span>React Body</span>
     </div>
   );
 }
